@@ -31,8 +31,8 @@
 		591335581EE8FDCB001F53DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5913355E1EE9012B001F53DD /* MapAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAlertViewController.swift; sourceTree = "<group>"; };
 		591335601EE912AF001F53DD /* MapKitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapKitViewController.swift; sourceTree = "<group>"; };
-		591335631EE9141A001F53DD /* note.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = note.png; path = "../../PracticeImage/Chapter03-Alert/note.png"; sourceTree = "<group>"; };
-		591335641EE9141A001F53DD /* rating5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "rating5@2x.png"; path = "../../PracticeImage/Chapter03-Alert/rating5@2x.png"; sourceTree = "<group>"; };
+		591335631EE9141A001F53DD /* note.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note.png; sourceTree = "<group>"; };
+		591335641EE9141A001F53DD /* rating5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rating5@2x.png"; sourceTree = "<group>"; };
 		591335671EE91470001F53DD /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 		591335691EE9150F001F53DD /* ControlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlViewController.swift; sourceTree = "<group>"; };
 		5913356B1EE91E00001F53DD /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
